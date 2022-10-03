@@ -1,1 +1,1 @@
-# self-designing-game-project-2-shoot-the-zombie-2
+# Zombie-Shooter-stage-2
